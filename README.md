@@ -22,11 +22,40 @@ Since I am currently not working
 - Anything interesting on [hackernews](https://hackernews.com)
 - gym 45min - 1hour
 - learn/study either at home or at a coffee place 4-5hours
+- eat lunch 30min (a salad or a banana)
 - take a walk outside 30-45min
-- continue with learning and studying for another 7-8hours
-- sleep by 12-1am
+- continue with learning and studying for another 4-5hours
+- meditate 30min
+- more studying then sleep by 12-1am
 
 I have interviews on some days and usually I plan 2 hours for questions and research before the interview. I have a long journey with this and deserves a whole article/book.
+
+---
+
+### Gym
+
+I am not going to the gym every day for the gains, I am going for the mind (cognitive health) and because I seem to stress a lot.
+
+Biking every other day (~400 calories) starting at level 9 and increasing by 1 every 10 minutes.
+
+The days I am not biking (every other day) I am running between ~3.5 to ~3.7 miles over a 5k:
+
+- First minute speed 3.2 incline 1.5
+- speed 7.6 incline 1.5 min 5
+- speed 7.8 incline 1.5 min 10
+- speed 8.0 incline 1.5 min 15
+- speed 8.2 incline 1.5 min 20
+- speed 3.2 incline 1.5 min 22 (walk for 2min before 3-4 min of uphill)
+- speed 4.6 incline 15.0 min 25-26 (major uphill).
+- speed 3.2 incline 1.5 min 26-27
+- speed 8.0 incline 1.5 min 28:30
+- speed 8.4-8.8 incline 1.5 min 29
+- speed 9.2-9.6 incline 1.5 min 29:30
+- speed 3.2 incline 1.5 min 30 (finish by a min walk)
+
+Before running or cycling I focus on one muscle area for 15-20min whether its my core, chest, arms or legs.
+
+This has become a habit now since I have been doing it every day for the past 4 months.
 
 ---
 
@@ -63,3 +92,5 @@ Will fill this section out later but the goal is to get 100% in all Math categor
 (its not a speedrun and some months are better than others)
 
 ![Progress thus far](images/khan.png)
+
+Currently taking the Calculus courses. The courses that are not complete ill come back to. Most of the quizes I am saving, I think if I do them later so I can remember what I learned (longevity hippocampus memory). Watching all videos with the units along with completing the exercises, and some exercises I have to use pen and paper.
