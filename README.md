@@ -1,12 +1,6 @@
-# Midlife Rethink
+# Rethink Progress
 
-If I am not pushing code I am either studying more math or doing some research. I thought it would be nice to keep daily activities tracked on my own.
-
----
-
-### Why
-
-Everyone is different, I woke up one day and just asked myself what am I doing with my life? I might elobrate on this further on a different forum it has a lot of back story on how I got here and what I am doing now.
+If I am not pushing code I am either studying mathematics or researching. I thought it would be nice to keep daily activities tracked on my own.
 
 ---
 
@@ -14,7 +8,7 @@ Everyone is different, I woke up one day and just asked myself what am I doing w
 
 Almost 6 months Ive been jobless I...
 
-- Took 7 courses on Frontend Masters.
+- Completed 7 courses on Frontend Masters.
 - Solved leetcode problems (some problems took 3 hours to solve if longer than that I have to look at the solution and learn from it).
 - A complete re-write and re-design of my resume (twice).
 - Bought a domain name and used Astro to layout the pages and hooked it up to github for CI/CD so I can post web/mobile experiments, blog, or contact me for work.
@@ -40,7 +34,7 @@ Since I am currently not working
 - Anything interesting on [hackernews](https://hackernews.com)
 - gym 45min - 1hour
 - learn/study either at home or at a coffee place 4-5hours
-- eat lunch 30min (a salad or a banana)
+- eat lunch or/and get clean 1hour
 - take a walk outside 30-45min
 - continue with learning and studying for another 4-5hours
 - meditate 30min
@@ -50,13 +44,13 @@ I have interviews on some days and usually I plan 2 hours for questions and rese
 
 ---
 
-### Gym
+### Exercise
 
-I am not going to the gym every day for the gains, I am going for the mind (cognitive health) and because I seem to stress a lot.
+I am not going to the gym every day for the gains, I am going for the mind (cognitive health) and I seem to stress a lot.
 
 Biking every other day (~400 calories) starting at level 9 and increasing by 1 every 10 minutes.
 
-The days I am not biking (every other day) I am running between ~3.5 to ~3.7 miles over a 5k:
+The days I am not biking I am running between ~3.5 to ~3.7 miles over a 5k distance:
 
 - First minute speed 3.2 incline 1.5
 - speed 7.6 incline 1.5 min 5
