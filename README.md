@@ -4,9 +4,27 @@ If I am not pushing code I am either studying more math or doing some research. 
 
 ---
 
-### Why?
+### Why
 
 Everyone is different, I woke up one day and just asked myself what am I doing with my life? I might elobrate on this further on a different forum it has a lot of back story on how I got here and what I am doing now.
+
+---
+
+### What am I doing now
+
+Almost 6 months Ive been jobless I...
+
+- Took 7 courses on Frontend Masters.
+- Solved leetcode problems (some problems took 3 hours to solve if longer than that I have to look at the solution and learn from it).
+- A complete re-write and re-design of my resume (twice).
+- Bought a domain name and used Astro to layout the pages and hooked it up to github for CI/CD so I can post web/mobile experiments, blog, or contact me for work.
+- A lot of time preparing for interviews, reading, watching practice interviews on youtube, putting some time into not being so nervous/stressed.
+- Studying something entirely different (SwiftUI, Django, Flask).
+- More practice with mathematics on Khan Academy
+- Eating only healthy foods and cooking every night.
+- Bringing my kindle outside to read @ sunset. (sometimes)
+
+I don't watch TV and I recently had cancelled my Netflix. There's a strike going on, and Ai for shows/movies? Ew.
 
 ---
 
