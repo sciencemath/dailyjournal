@@ -99,6 +99,7 @@ Now with Apple Vision Pro coming out I think its my calling to create something 
 Will fill this section out later but the goal is to get 100% in all Math categories:
 
 (its not a speedrun and some months are better than others)
+4,039,154 energy points
 
 ![Progress thus far](images/khan.png)
 
