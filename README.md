@@ -11,22 +11,18 @@ Almost 6 months Ive been jobless I...
 - Completed 7 courses on Frontend Masters.
 - Solved leetcode problems (some problems took 3 hours to solve if longer than that I have to look at the solution and learn from it).
 - A complete re-write and re-design of my resume (twice).
-- Bought a domain name and used Astro to layout the pages and hooked it up to github for CI/CD so I can post web/mobile experiments, blog, or contact me for work.
+- Bought a domain name and used Astro to layout the pages, hooked it up to github for CI/CD so I can post web/mobile experiments, blog, and a contact me for work.
 - A lot of time preparing for interviews, reading, watching practice interviews on youtube, putting some time into not being so nervous/stressed.
 - Studying something entirely different (SwiftUI, Django, Flask).
 - More practice with mathematics on Khan Academy
 - Eating only healthy foods and cooking every night.
 - Bringing my kindle outside to read @ sunset. (sometimes)
 
-I don't watch TV and I recently had cancelled my Netflix. There's a strike going on, and Ai for shows/movies? Ew.
-
 ---
 
 ### Daily Routines
 
 Instead of going to the gym 2-3 times a week I go every day now with at least 30 minutes of cardio. Moving from the west to the east coast I noticed a change in sleep patterns.
-
-Since I am currently not working
 
 - wake up ~7-8am
 - 1 cup of ice coffee
@@ -36,7 +32,8 @@ Since I am currently not working
 - learn/study either at home or at a coffee place 4-5hours
 - eat lunch or/and get clean 1hour
 - take a walk outside 30-45min
-- continue with learning and studying for another 4-5hours
+- continue with learning and studying for another 3hours
+- prep and cook and eat dinner 1hour
 - meditate 30min
 - more studying then sleep by 12-1am
 
@@ -89,7 +86,7 @@ Some days are spent solving leetcode problems or learning math on khan academy.
 
 The mission/goal my whole life has been wanting to create educational games or environments where a person is immersed in learning what they want to learn.
 
-Education through games or environments I believe is a great way to learn new concepts and even remember concepts vividly.
+Education using games or environments as a medium is a great way to learn new concepts and even remember concepts vividly.
 
 I started doing this when I was in college teaching a class of people HTML in a 3D environment or even attending classes virtually was really neat. [SecondLife](https://secondlife.com/)
 
@@ -105,4 +102,4 @@ Will fill this section out later but the goal is to get 100% in all Math categor
 
 ![Progress thus far](images/khan.png)
 
-Currently taking the Calculus courses. The courses that are not complete ill come back to. Most of the quizes I am saving, I think if I do them later so I can remember what I learned (longevity hippocampus memory). Watching all videos with the units along with completing the exercises, and some exercises I have to use pen and paper.
+Currently taking the Calculus courses. I don't move foward in a unit/section unless I complete the exercises that accompany the videos. Some exercises are involved so they require me to complete problems on pen and paper.
